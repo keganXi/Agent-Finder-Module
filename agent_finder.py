@@ -1,5 +1,3 @@
-# ScrapCars/scrap_cars_modules/agent_finder/get_agent_module.py
-
 """
     NOTE:
         - This module (get_agent_module.py) is used for 
